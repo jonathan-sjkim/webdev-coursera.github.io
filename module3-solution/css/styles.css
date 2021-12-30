@@ -1,0 +1,60 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #ff9900;
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#header-nav{
+	background-color: #232F32;
+	border:0;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-brand{
+	font-size: 2em;
+	color:#ffffff;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+	margin-left: 15px;
+	top:50%;
+}
+
+#navbar-title h1:hover{
+    color: orange;
+}
+
+.navbar-collapse{
+	border:none;
+	margin-bottom: 0;
+}
+
+#navbar-food-list{
+	margin-top:0;
+	margin-bottom: 0;
+	border-bottom: 1px solid #fff;
+	background-color: #06118e;
+}
+
+#navbar-food-list li{
+	border-top: 1px solid #fff;
+}
+#navbar-food-list a{
+	text-align: center;
+	color:#fff;
+}
+
+#navbar-food-list a:hover{
+	background: #63b2e7;
+	color:#000;
+}
+
+.navbar-header .navbar-toggle:hover{
+	background-color: #fff;
+}
