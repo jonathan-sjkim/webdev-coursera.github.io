@@ -13,3 +13,4 @@ https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
 - [Module 2 Assignment](https://jonathan-sjkim.github.io/webdev-coursera.github.io/module2-solution/index.html)
 - [Module 3 Assignment](https://jonathan-sjkim.github.io/webdev-coursera.github.io/module3-solution/index.html)
 - [Module 4 Assignment](https://jonathan-sjkim.github.io/webdev-coursera.github.io/module4-solution/index.html)
+- [Module 5 Assignment](https://jonathan-sjkim.github.io/webdev-coursera.github.io/module5-solution/index.html)
